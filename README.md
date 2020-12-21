@@ -15,5 +15,5 @@ dot -Tps demo1.digraph -o demo1.ps
 
 ## Output Example:
 
-![Alt text](./demo2.svg)
+![Alt text](./demo1.svg)
 <img src="./demo2.svg">
