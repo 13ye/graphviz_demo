@@ -11,3 +11,9 @@ dot -Tsvg demo1.html -o demo1.svg
 dot -Tpng demo2.html -o demo2.png
 dot -Tps demo1.digraph -o demo1.ps
 ```
+
+
+## Output Example:
+
+![Alt text](./demo2.svg)
+<img src="./demo2.svg">
