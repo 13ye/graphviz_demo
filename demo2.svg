@@ -32,10 +32,10 @@
 <text text-anchor="start" x="88" y="-70.8" font-family="Times,serif" font-size="14.00">throughput</text>
 <polygon fill="lightgrey" stroke="transparent" points="175,-74.5 175,-99.5 332,-99.5 332,-74.5 175,-74.5"/>
 <polygon fill="none" stroke="black" points="175,-74.5 175,-99.5 332,-99.5 332,-74.5 175,-74.5"/>
-<text text-anchor="start" x="237" y="-83.3" font-family="Times,serif" font-size="14.00">read</text>
+<text text-anchor="start" x="234.5" y="-83.3" font-family="Times,serif" font-size="14.00">write</text>
 <polygon fill="lightgrey" stroke="transparent" points="332,-74.5 332,-99.5 489,-99.5 489,-74.5 332,-74.5"/>
 <polygon fill="none" stroke="black" points="332,-74.5 332,-99.5 489,-99.5 489,-74.5 332,-74.5"/>
-<text text-anchor="start" x="391.5" y="-83.3" font-family="Times,serif" font-size="14.00">write</text>
+<text text-anchor="start" x="394" y="-83.3" font-family="Times,serif" font-size="14.00">read</text>
 <polygon fill="lightgrey" stroke="transparent" points="489,-49.5 489,-99.5 524,-99.5 524,-49.5 489,-49.5"/>
 <polygon fill="none" stroke="black" points="489,-49.5 489,-99.5 524,-99.5 524,-49.5 489,-49.5"/>
 <text text-anchor="start" x="494" y="-70.8" font-family="Times,serif" font-size="14.00">util</text>
