@@ -10,6 +10,7 @@ apt install graphviz
 dot -Tsvg demo1.html -o demo1.svg
 dot -Tpng demo2.html -o demo2.png
 dot -Tps demo1.digraph -o demo1.ps
+dot -Tsvg demo3.digraph -o demo3.svg
 ```
 
 
