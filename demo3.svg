@@ -12,22 +12,22 @@
 <g id="clust1" class="cluster">
 <title>cluster_0</title>
 <polygon fill="none" stroke="black" points="86,-91 86,-166 300,-166 300,-91 86,-91"/>
-<text text-anchor="middle" x="193" y="-150.8" font-family="Times,serif" font-size="14.00">Subgraph A</text>
+<text text-anchor="middle" x="193" y="-150.8" font-family="Times,serif" font-size="14.00">Layer 1</text>
 </g>
 <g id="clust2" class="cluster">
 <title>cluster_1</title>
 <polygon fill="none" stroke="black" points="8,-8 8,-83 150,-83 150,-8 8,-8"/>
-<text text-anchor="middle" x="79" y="-67.8" font-family="Times,serif" font-size="14.00">Subgraph B</text>
+<text text-anchor="middle" x="79" y="-67.8" font-family="Times,serif" font-size="14.00">Layer 2_A</text>
 </g>
 <g id="clust3" class="cluster">
 <title>cluster_2</title>
 <polygon fill="none" stroke="black" points="158,-8 158,-83 300,-83 300,-8 158,-8"/>
-<text text-anchor="middle" x="229" y="-67.8" font-family="Times,serif" font-size="14.00">Subgraph C</text>
+<text text-anchor="middle" x="229" y="-67.8" font-family="Times,serif" font-size="14.00">Layer 2_B</text>
 </g>
 <g id="clust4" class="cluster">
 <title>cluster_3</title>
 <polygon fill="none" stroke="black" points="308,-8 308,-83 450,-83 450,-8 308,-8"/>
-<text text-anchor="middle" x="379" y="-67.8" font-family="Times,serif" font-size="14.00">Subgraph D</text>
+<text text-anchor="middle" x="379" y="-67.8" font-family="Times,serif" font-size="14.00">Layer 2_C</text>
 </g>
 <!-- a -->
 <g id="node1" class="node">

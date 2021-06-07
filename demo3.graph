@@ -1,26 +1,24 @@
 graph G {
     splines=line;
     subgraph cluster_0 {
-        label="Subgraph A";
+        label="Layer 1";
         a; b; c
     }
 
     subgraph cluster_1 {
-        label="Subgraph B";
+        label="Layer 2_A";
         d; e;
     }
 
     subgraph cluster_2 {
-        label="Subgraph C";
+        label="Layer 2_B";
         f; g;
     }
 
     subgraph cluster_3 {
-        label="Subgraph D";
+        label="Layer 2_C";
         h; i;
     }
-
-
 
     a -- d;
     a -- e;
